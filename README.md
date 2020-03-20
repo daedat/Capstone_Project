@@ -22,7 +22,7 @@ The dataset is survey data collected from NSDUH 2018 via SAMHSA open data (https
 The size of my initial dataset was (28157, 744) row x column. 
 ​
 ## Analysis <a name="analysis"></a>
-​
+
 ### Data Cleaning <a name="data_cleaning"></a>
 Survey data requires ample data cleaning time to ensure columns reflect only relevant questions and answers. Hence, I dropped recoded questions and 'na' type answers coded as 85=BAD DATA, 94=DON'T KNOW, 97=REFUSED, 98=BLANK, 99=SKIP. 
 ​
