@@ -1,6 +1,6 @@
 # Capstone Project
 ### By: Dayana Kan
-​
+
 ## Contents
 1. [Introduction](#introduction)
     - [Problem Statement](#problem_statement)
