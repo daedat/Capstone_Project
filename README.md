@@ -28,6 +28,5 @@ Survey data requires ample data cleaning time to ensure columns reflect only rel
 ​
 ### Exploratory Analysis <a name="exploratory_analysis"></a>
 
-​
 ### Modeling <a name="modeling"></a>
 My analysis used scipy, matplotlib and seaborn to create barplots, Chi-Sq distribution, and scatter plots to explore the data. I used statsmodels and sklearn to create my classification model and validate it.
