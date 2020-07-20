@@ -12,7 +12,7 @@
  ​   
 ## Abstract <a name="introduction"></a>
 ​
-The goal of this analysis is to tell a better story of mental health care today by taking a closer look at survey data on adult mental health service utilization. By building a classification model to predict if an adult receives mental health help or not, I am interested in the reasons that may vary by demographic. Using this binary decision as my target variable, I ran a .... classification model to find the most important features/reasons for getting treatment counseling or not. These features can be used to improve the mental health care system in public health arenas, correctional institutions, education, and job industries by making informed data drive decisions.
+The goal of this analysis is to tell a better story of mental health care today by taking a closer look at survey data on adult mental health service utilization. By building a classification model to predict if an adult receives mental health help or not, I am interested in the reasons that may vary by demographic. Using this binary decision as my target variable, I ran a logistic classification model to find the most important features/reasons for getting treatment counseling or not. These features can be used to improve the mental health care system in public health arenas, correctional institutions, education, and job industries by making informed data drive decisions.
 ​
 ### Problem Statement <a name="problem_statement"></a>
 Can we predict whether an adult receives mental health treatment/counseling or not? 
