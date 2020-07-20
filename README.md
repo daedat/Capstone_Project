@@ -1,5 +1,5 @@
 # Capstone Project
-https://docs.google.com/presentation/d/13_DjFBB0OnIwEU0U_xGuvTTsqx0X5oVqUruPMPRP1QA/edit?usp=sharing
+Presentation: https://docs.google.com/presentation/d/13_DjFBB0OnIwEU0U_xGuvTTsqx0X5oVqUruPMPRP1QA/edit?usp=sharing
 ### By: Dayana Kan
 
 ## Contents
